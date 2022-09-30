@@ -1,0 +1,28 @@
+input[type="button"]{
+    padding: 10px 40px;
+    background-color: #90c3cd;
+    border: none;
+    margin: 10px;
+    font-size: 18px;
+    border-radius: 5px;
+    width: 100px;
+}
+input[type="text"]{
+    width: 300px;
+    padding: 15px 30px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    background-color: #90cdcaa1;
+}
+table{
+    text-align: center;
+    margin: 50px auto;
+    width: 500px;
+    border-radius: 20px;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    color: #3599ab;
+}

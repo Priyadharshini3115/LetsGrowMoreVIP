@@ -1,0 +1,43 @@
+#bodyStyle{
+    background-color: rgb(234, 154, 154);
+}
+h1{
+    text-align: center;
+    color: white;
+}
+input[type="text"]{
+    padding: 20px 130px;
+    background-color: white;
+    border: none;
+}
+input[type="button"]{
+    padding: 20px 30px;
+    background-color: white;
+    border: none;
+    margin: 0px 5px;
+}
+#contentStyle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+P{
+    border-bottom: 1px solid white;
+    width: 400px;
+    color: white;
+}
+button{
+    padding: 15px 20px;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 30px;
+    border: none;
+}
+.outerShellClass{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#input{
+    margin-top: 10px;
+}
